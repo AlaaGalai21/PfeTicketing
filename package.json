@@ -1,0 +1,16 @@
+{
+  "name": "blablabla-authentication",
+  "version": "1.0.0",
+  "description": "A MERN Authentication App",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run start",
+    "server": "cd backend && npm run start"
+  },
+  "keywords": [
+    "MERN",
+    "Authentication"
+  ],
+  "author": "Sufan Huang",
+  "license": "ISC"
+}
